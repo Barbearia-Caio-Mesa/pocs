@@ -11,10 +11,7 @@
 	<groupId>com.barbearia</groupId>
 	<artifactId>pocCal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	<modules>
-		<module>demo</module>
-	</modules>
+	<packaging>jar</packaging>
 	<name/>
 	<description/>
 	<url/>
